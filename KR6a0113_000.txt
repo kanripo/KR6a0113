@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說難提釋經
+#+DATE: 2015-08-30 19:31:47.658288
+#+PROPERTY: JUAN 0
